@@ -1,7 +1,3 @@
-// What is the input to the program? 0, 3, 25
-// What is the output of the program? 0, 11, 11001
-// What is the input to each recursive call?
-// What is the output of each recursive call?
 
 // Write a recursive function that prints out the binary representation of a given number. 
 // For example, the program should take 3 as an input and print 11 as output, 
